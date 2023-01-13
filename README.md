@@ -14,7 +14,7 @@
  
 ```Identidade => ASSERTIVO: 37% 63% :CAUTELOSO``` | ```Natureza => PENSANTE: 74% 26% :SENTIMENTO``` |
 
-```Energia => INTUITIVO: 47% 53% :OBSERVADOR``` | ```Táticas => JULADOR: 76% 24% :EXPLORADOR``` |
+```Energia => INTUITIVO: 47% 53% :OBSERVADOR``` | ```Táticas => JULGADOR: 76% 24% :EXPLORADOR``` |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,9 +26,3 @@
 ## Frase Inspiradora - 
 
 > Falar é fácil, me mostre o código. 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickNoGit&count_private=true&show_icons=true&theme=cobalt)
-
-<!--  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoGit&layout=compact)](https://github.com/ErickNoGit/github-readme-stats)
--->
