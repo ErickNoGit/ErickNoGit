@@ -1,7 +1,6 @@
 ## Hello Wolrd -
 
 <a href="https://www.linkedin.com/in/%C3%A9rick-alves-355668238/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=00a5f7&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Érick+Alves+%3D)" alt="Typing SVG" /></a>
-
 > Estudante de Ciências da Computação. 💙
 
 <div align="left">
@@ -11,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoGit&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### _Comportamento -_
+## Comportamento -
 
 > Meus pontos de personalidade
 
@@ -27,7 +26,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### _Frase Inspiradora -_ 
+## Frase Inspiradora - 
 
 > Falar é fácil, me mostre o código. 👽
 > 
