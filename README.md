@@ -47,3 +47,5 @@
  
   <img align="center" alt="Erick-Ubuntu" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png">
 </div>
+
+![snake gif](https://github.com/ErickNoGit/ErickNoGit/blob/output/github-contribution-grid-snake.svg)
