@@ -24,6 +24,8 @@
 ### _Frase Inspiradora -_ 
 
 > Falar é fácil, me mostre o código. 
+> 
+> _Torvalds, Linus_ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Github" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919847.png">
