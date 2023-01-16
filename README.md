@@ -1,4 +1,4 @@
-## Hello Wolrd -
+## Hello World -
 
 <a href="https://www.linkedin.com/in/%C3%A9rick-alves-355668238/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=00a5f7&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Érick+Alves+%3D)" alt="Typing SVG" /></a>
 > Estudante de Ciências da Computação. 💙
