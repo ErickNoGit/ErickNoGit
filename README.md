@@ -3,7 +3,12 @@
 <a href="https://www.linkedin.com/in/%C3%A9rick-alves-355668238/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=00a5f7&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Érick+Alves+%3D)" alt="Typing SVG" /></a>
 > Estudante de Ciências da Computação. 💙
 
-
+<div align="left">
+  <a href="https://github.com/ErickNoGit">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ErickNoGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoGit&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## Comportamento -
 
