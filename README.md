@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoGit&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Comportamento -
+## Activity -
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickNoGit&theme=tokyonight" alt="ErickSkills" /></p>
   
@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Frase Inspiradora - 
+## Inspirational Phrase - 
 
 > Falar é fácil, me mostre o código. 👽
 > 
