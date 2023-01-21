@@ -11,13 +11,17 @@
 </div>
 
 ## Comportamento -
-
+  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickNoGit&" alt="ErickSkills" /></p>
+  
+<!--  
 > Meus pontos de personalidade
 
 |  Identidade   |    Natureza    |    Energia     |     Táticas    |
 |---------------|----------------|----------------|----------------|
 | cauteloso 63% | pensante   74% | observador 53% | julgador   76% |
 | assertivo 37% | sentimento 26% | intuitivo  47% | explorador 24% |
+-->
  
  <div> 
   <a href="https://discord.gg/begMN3bv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
