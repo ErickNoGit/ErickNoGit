@@ -6,10 +6,11 @@
 <div align="left">
   <a href="https://github.com/ErickNoGit">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ErickNoGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   
+   <!--
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoGit&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+-->
+    
 ## Activity -
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickNoGit&theme=tokyonight" alt="ErickSkills" /></p>
